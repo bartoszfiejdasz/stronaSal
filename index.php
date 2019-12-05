@@ -133,9 +133,57 @@
     </section>
     <section>
         <h2>Kontakt</h2>
-        
+        <nav>
+            <h3>Publiczne Salezjańskie Liceum Ogólnokształcące w Krakowie</h3>
+        </nav>
+        <nav>
+            <h3>Telefon</h3>
+        </nav>
+        <nav>
+            <h3>Fax</h3>
+        </nav>
+        <nav>
+            <h3>Mail</h3>
+        </nav>
     </section>
-
+    <footer>
+        <nav>
+            <h2>Salezjanie</h2>
+            <ul>
+                <li><a href="#">Wspólnota pw. Błogosławionego Augusta Czartoryskiego</a></li>
+                <li><a href="#">Inspektoria Krakowska</a></li>
+                <li><a href="#">Wyższe Seminarium Duchowne Towarzystwa Salezjańskiego</a></li>
+                <li><a href="#">Salezjanie na świecie</a></li>
+            </ul>
+        </nav>
+        <nav>
+            <h2>Dla uczniów</h2>
+            <ul>
+                <li><a href="#">Wspólnota pw. Błogosławionego Augusta Czartoryskiego</a></li>
+                <li><a href="#">Inspektoria Krakowska</a></li>
+                <li><a href="#">Wyższe Seminarium Duchowne Towarzystwa Salezjańskiego</a></li>
+                <li><a href="#">Salezjanie na świecie</a></li>
+            </ul>
+        </nav>
+        <nav>
+            <h2>Dla kandydatów</h2>
+            <ul>
+                <li><a href="#">Wspólnota pw. Błogosławionego Augusta Czartoryskiego</a></li>
+                <li><a href="#">Inspektoria Krakowska</a></li>
+                <li><a href="#">Wyższe Seminarium Duchowne Towarzystwa Salezjańskiego</a></li>
+                <li><a href="#">Salezjanie na świecie</a></li>
+            </ul>
+        </nav>
+        <nav>
+            <h2>Inne</h2>
+            <ul>
+                <li><a href="#">Wspólnota pw. Błogosławionego Augusta Czartoryskiego</a></li>
+                <li><a href="#">Inspektoria Krakowska</a></li>
+                <li><a href="#">Wyższe Seminarium Duchowne Towarzystwa Salezjańskiego</a></li>
+                <li><a href="#">Salezjanie na świecie</a></li>
+            </ul>
+        </nav>
+    </footer>
 </body>
 
 </html>
