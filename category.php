@@ -1,3 +1,5 @@
+<h2><?php  single_term_title( );?></h2>
+
 <?php
 
 if ( have_posts() ) {
@@ -6,12 +8,15 @@ if ( have_posts() ) {
 
 ?>
 
-<h2><?php the_title();?></h2>
+<h3><?php the_title();?></h3>
+
+<span><?php the_author();?></span>
 <span><?php the_time('d.m.Y');?></span>
-<?php the_content()?>
+
 
 <?php
-    }
+	}
+	
 }
 
 ?>

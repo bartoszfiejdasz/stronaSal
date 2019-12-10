@@ -48,8 +48,9 @@ while($aktualnosci->have_posts()){
 ?>
 
     <h2><a href="<?php echo get_permalink();?>"><?php the_title();?></a></h2>
+    
+    <span><?php the_author();?></span>
     <span><?php the_category();?></span>
-
 
     <?php
 }
@@ -74,7 +75,9 @@ while($aktualnosci->have_posts()){
 ?>
 
     <h2><a href="<?php echo get_permalink();?>"><?php the_title();?></a></h2>
+    <span><?php the_author();?></span>
     <span><?php the_category();?></span>
+    
 
 
     <?php

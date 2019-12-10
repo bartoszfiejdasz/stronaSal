@@ -9,6 +9,7 @@ if ( have_posts() ) {
 ?>
 
 <h2><?php the_title();?></h2>
+<span><?php the_author();?></span>
 <span><?php the_time('d.m.Y');?></span>
 <?php the_content()?>
 
